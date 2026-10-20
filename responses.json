@@ -1,0 +1,37 @@
+{
+    "greeting": [
+        "Hello! How can I help you?",
+        "Hi there! \ud83d\ude0a",
+        "Hey! Nice to meet you."
+    ],
+    "goodbye": [
+        "Goodbye! Take care. \ud83d\udc4b",
+        "See you later!",
+        "Bye! Have a great day."
+    ],
+    "thanks": [
+        "You're welcome! \ud83d\ude0a",
+        "Happy to help!",
+        "Anytime!"
+    ],
+    "name": [
+        "I'm NLP Bot, an AI chatbot built with Python.",
+        "You can call me NLP Bot!"
+    ],
+    "help": [
+        "I can respond to greetings, questions about me, and requests for help.",
+        "Try asking about my name, availability, or what I can do."
+    ],
+    "hours": [
+        "I'm a demo chatbot, so I don't have real business hours.",
+        "You can use this chatbot whenever its app is running."
+    ],
+    "mood": [
+        "I'm ready to help you! \ud83d\ude0a",
+        "I'm doing well, thanks for asking."
+    ],
+    "fallback": [
+        "I'm not sure I understood. Could you rephrase that?",
+        "I don't have a good answer for that yet. Try asking another way."
+    ]
+}
