@@ -1,4 +1,5 @@
 
+
 import json
 import joblib
 
@@ -8,7 +9,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 
-# Load the predefined training data
+# Load training examples
 with open("intents.json", "r", encoding="utf-8") as file:
     intents = json.load(file)
 
@@ -47,3 +48,4 @@ print(classification_report(y_test, y_pred, zero_division=0))
 joblib.dump(chatbot_model, "chatbot_model.pkl")
 
 print("Model saved successfully!")
+
