@@ -1,0 +1,105 @@
+
+{
+  "greeting": [
+    "hello",
+    "hi",
+    "hey",
+    "hello there",
+    "good morning",
+    "good afternoon",
+    "good evening",
+    "hey there",
+    "is anyone there",
+    "hi chatbot",
+    "nice to meet you",
+    "how are you"
+  ],
+  "goodbye": [
+    "bye",
+    "goodbye",
+    "see you later",
+    "talk to you later",
+    "I am leaving",
+    "I have to go",
+    "catch you later",
+    "take care",
+    "farewell",
+    "bye bot",
+    "have a good day",
+    "see you soon"
+  ],
+  "thanks": [
+    "thank you",
+    "thanks",
+    "thanks a lot",
+    "thank you so much",
+    "many thanks",
+    "I appreciate it",
+    "that was helpful",
+    "thanks for your help",
+    "great help",
+    "much appreciated",
+    "you helped me",
+    "awesome thanks"
+  ],
+  "name": [
+    "what is your name",
+    "who are you",
+    "tell me your name",
+    "what should I call you",
+    "introduce yourself",
+    "what is your bot name",
+    "tell me about yourself",
+    "are you a chatbot",
+    "what are you called",
+    "your identity"
+  ],
+  "help": [
+    "help me",
+    "can you help me",
+    "I need help",
+    "what can you do",
+    "how can you assist me",
+    "I need assistance",
+    "can you guide me",
+    "show me what you can do",
+    "assist me please",
+    "I have a question"
+  ],
+  "hours": [
+    "what are your working hours",
+    "when are you available",
+    "are you available all day",
+    "what time do you work",
+    "when can I chat with you",
+    "are you always online",
+    "your availability",
+    "what are your office hours",
+    "when do you close",
+    "when do you open"
+  ],
+  "mood": [
+    "how are you feeling",
+    "are you happy",
+    "how is your day",
+    "are you doing well",
+    "are you okay",
+    "how do you feel",
+    "hope you are doing well",
+    "how is everything",
+    "are you having a good day",
+    "what is your mood"
+  ],
+  "fallback": [
+    "blah blah blah",
+    "random words here",
+    "I do not understand this topic",
+    "the purple elephant runs quickly",
+    "unrelated message",
+    "xyz abc qwerty",
+    "tell me something unexpected",
+    "this sentence has no clear meaning",
+    "gibberish input",
+    "nonsense words"
+  ]
+}
